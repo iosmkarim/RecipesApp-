@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "63C161E6-26A3-4AEF-BD51-5479E986FC4C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D757D962-6446-4F63-9310-5BA4EAD100F8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RecipesApp/RecipeListView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "D757D962-6446-4F63-9310-5BA4EAD100F8 - 1311aecd9cf96473"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in RecipesApp.RecipeListView.body.getter : some"
+                  moduleName = "RecipesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shafique/Desktop/RecipesApp/RecipesApp/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "D757D962-6446-4F63-9310-5BA4EAD100F8 - a7c248a3827ce747"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in RecipesApp.RecipeListView.body.getter : some"
+                  moduleName = "RecipesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shafique/Desktop/RecipesApp/RecipesApp/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "D757D962-6446-4F63-9310-5BA4EAD100F8 - 88479918859e2871"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in RecipesApp.RecipeListView.body.getter : some"
+                  moduleName = "RecipesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shafique/Desktop/RecipesApp/RecipesApp/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "D757D962-6446-4F63-9310-5BA4EAD100F8 - 1311aecd9cf96431"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #2 @Sendable () async -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.refreshable(action: @Sendable () async -&gt; ()) -&gt; some&gt;&gt;.0 in RecipesApp.RecipeListView.body.getter : some"
+                  moduleName = "RecipesApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shafique/Desktop/RecipesApp/RecipesApp/RecipeListView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "372">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
